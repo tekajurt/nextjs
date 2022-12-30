@@ -1,5 +1,22 @@
 {
   "dependencies": {
     "create-next-app": "^13.1.1"
-  }
+  },
+  "name": "nextapp",
+  "description": "first init was on mac, fuck you linux, no mentira tiamo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekajurt/nextjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tekajurt/nextjs/issues"
+  },
+  "homepage": "https://github.com/tekajurt/nextjs#readme"
 }
