@@ -2,7 +2,7 @@
 const footer = () =>{
     return (
 
-        <p>footer</p>
+        <footer className="fixed-bottom align-items-center justify-content-center text-center"> footer</footer>
         
     )
 }
