@@ -6,7 +6,7 @@ const template = (props) => {
         <>
         <Navbar/>
         {props.children}
-        <Footer></Footer>
+        <Footer />
         </>
     )
 }

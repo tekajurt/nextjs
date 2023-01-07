@@ -1,9 +1,11 @@
 import React from "react";
+import "../styles/Home.module.css";
 
 const home = () => {
     return (
-        <div className="container bg-dark text-light">
-            <div className="bg-dark">
+        <div id="Home"className="container-fluid bg-dark text-light">
+            <div className="row bg-dark">
+
                 <p>Hola
                 
                 </p>
