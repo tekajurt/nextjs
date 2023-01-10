@@ -18,10 +18,7 @@ const navBar = () =>{
                         <NavLink href='proyects'>Proyectos</NavLink>
                         <NavLink href='join'>Inscripción voluntariado</NavLink>
                         <NavLink href='contact'>Contáctenos</NavLink>
-
                     </Nav>
-
-
                 </Navbar.Collapse>
             </Container>
         </Navbar>
