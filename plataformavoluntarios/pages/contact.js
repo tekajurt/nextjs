@@ -1,8 +1,13 @@
+import Template from "./componens/template";
 const contact= () => {
     return(
-        <h1>
-            Contactos
-        </h1>
+        
+            <Template>
+            <h1>
+                Contactos
+            </h1>
+            </Template>
+        
     )
 }
 export default contact;

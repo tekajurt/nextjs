@@ -5,7 +5,10 @@ const template = (props) => {
     return(
         <>
         <Navbar/>
-        {props.children}
+        <div className="containerPage w-75 h-auto text-center">
+
+            {props.children}
+        </div>
         <Footer />
         </>
     )

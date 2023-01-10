@@ -7,13 +7,13 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 
 const navBar = () =>{
     return(
-        <Navbar className='text-light' expand="xs">
+        <Navbar className='text-light align-items-start fixed-top' expand="xs">
             <Container>
                 <NavbarToggle aria-controls='basic-navbar-nav' />
                 <NavbarBrand href="/">LogoCAC</NavbarBrand>
-                <Navbar.Collapse className='w-auto' id='basic-navbar-nav'>
+                <Navbar.Collapse  id='basic-navbar-nav'>
                     <Nav className='me-auto text-light'>
-                        <NavLink href='/'>Home</NavLink>
+                        <NavLink  href='/'>Home</NavLink>
                         <NavLink href='who'>Quienes Somos</NavLink>
                         <NavLink href='proyects'>Proyectos</NavLink>
                         <NavLink href='join'>Inscripción voluntariado</NavLink>

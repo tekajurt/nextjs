@@ -9,7 +9,7 @@ const carousel = () => {
   };
 
   return (
-    <Carousel className='' activeIndex={index} onSelect={handleSelect}>
+    <Carousel className=' m-auto' activeIndex={index} onSelect={handleSelect}>
       <Carousel.Item>
         <img
           className="d-block w-100"

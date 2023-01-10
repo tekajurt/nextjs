@@ -1,6 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import Template from "./template"
+import Template from "./componens/template"
 const BasicExample = () => {
   return (
     <Template>

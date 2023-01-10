@@ -9,10 +9,12 @@ body {
 
   background-image: url("/fondo.jpg");
   background-size: cover;
-  height: 100%;
+  height: auto;
   width: 100%;
-
-
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  
 }
 .navbar{
   background-color: green;
@@ -21,6 +23,13 @@ body {
 #Home {
   background-color: greenyellow;
 
+}
+.containerPage{
+  background-color: greenyellow;
+  margin: auto;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  
 }
 Footer {
   height: auto;
