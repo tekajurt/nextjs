@@ -12,8 +12,8 @@ const home = () => {
                 <Row  className="mt-2">
                     <Col className="m-auto"><Image src="/favicon.ico"></Image></Col>
                     <Col className="text-center">
-                        <p>texto culiao inutil que sale del teclado de este sacowea por la xuxa que rabia</p>
-                        <Button variant="primary">Inscribirse</Button>
+                        <p>Texto genérico</p>
+                        <Button variant="primary" href="/join">Inscribirse</Button>
                     </Col>
                 </Row>
             </div>
