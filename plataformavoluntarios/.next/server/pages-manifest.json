@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/componens/footer": "pages/componens/footer.html",
+  "/componens/card": "pages/componens/card.html",
+  "/componens/carrusel": "pages/componens/carrusel.html",
+  "/componens/modal": "pages/componens/modal.html",
+  "/componens/nav": "pages/componens/nav.html",
+  "/componens/template": "pages/componens/template.html",
+  "/contact": "pages/contact.html",
+  "/": "pages/index.html",
+  "/home": "pages/home.html",
+  "/join": "pages/join.html",
+  "/proyects": "pages/proyects.html",
+  "/who": "pages/who.html",
+  "/404": "pages/404.html"
+}
